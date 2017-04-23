@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagrams:Diagrams xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:di="http://www.topcased.org/DI/1.0" xmlns:diagrams="http://www.topcased.org/Diagrams/1.0" xmi:id="_f7pIgCDfEee7T8S-jl9lzg" activeDiagram="_f7rkwCDfEee7T8S-jl9lzg">
+  <model href="IO.uml#_qb8akM37EdqwVrslYOdUDA"/>
+  <diagrams xmi:id="_f7rkwCDfEee7T8S-jl9lzg" position="0,0" size="100,100" name="IO" viewport="0,0">
+    <property xmi:id="_f_dRgCDfEee7T8S-jl9lzg" key="pageFormatName" value="A4"/>
+    <property xmi:id="_f_d4kCDfEee7T8S-jl9lzg" key="diagramWidth" value="840"/>
+    <property xmi:id="_f_d4kSDfEee7T8S-jl9lzg" key="diagramHeight" value="1188"/>
+    <property xmi:id="_f_d4kiDfEee7T8S-jl9lzg" key="pageMarginName" value="Small Margin"/>
+    <property xmi:id="_f_d4kyDfEee7T8S-jl9lzg" key="diagramTopMargin" value="20"/>
+    <property xmi:id="_f_d4lCDfEee7T8S-jl9lzg" key="diagramBottomMargin" value="20"/>
+    <property xmi:id="_f_d4lSDfEee7T8S-jl9lzg" key="diagramLeftMargin" value="20"/>
+    <property xmi:id="_f_d4liDfEee7T8S-jl9lzg" key="diagramRightMargin" value="20"/>
+    <property xmi:id="_f_d4lyDfEee7T8S-jl9lzg" key="orientation" value="portrait"/>
+    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_f7sL0CDfEee7T8S-jl9lzg" presentation="org.topcased.modeler.uml.classdiagram">
+      <element href="IO.uml#_qb8akM37EdqwVrslYOdUDA"/>
+    </semanticModel>
+  </diagrams>
+  <subdiagrams xmi:id="_iivGkCDfEee7T8S-jl9lzg">
+    <model href="IO.uml#_g1ZbACDfEee7T8S-jl9lzg"/>
+    <subdiagrams xmi:id="_ki6OkCDfEee7T8S-jl9lzg">
+      <model href="IO.uml#_ki1WECDfEee7T8S-jl9lzg"/>
+    </subdiagrams>
+  </subdiagrams>
+</diagrams:Diagrams>

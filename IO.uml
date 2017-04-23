@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_qb8akM37EdqwVrslYOdUDA" name="IO">
+  <packagedElement xmi:type="uml:Class" xmi:id="_g1ZbACDfEee7T8S-jl9lzg" name="AutoClose" classifierBehavior="_ki1WECDfEee7T8S-jl9lzg">
+    <ownedAttribute xmi:id="_siCBQCDfEee7T8S-jl9lzg" name="Property1"/>
+    <ownedAttribute xmi:id="_s3XYECDfEee7T8S-jl9lzg" name="Property2"/>
+    <ownedAttribute xmi:id="_tF7YgCDfEee7T8S-jl9lzg" name="Property3"/>
+    <ownedAttribute xmi:id="_02KaoCDfEee7T8S-jl9lzg" name="Property4"/>
+    <ownedAttribute xmi:id="_0-3DoCDfEee7T8S-jl9lzg" name="Property5"/>
+    <ownedBehavior xmi:type="uml:StateMachine" xmi:id="_ki1WECDfEee7T8S-jl9lzg">
+      <region xmi:id="_ki1WESDfEee7T8S-jl9lzg"/>
+    </ownedBehavior>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_vM8vYCDfEee7T8S-jl9lzg" name="Class1" classifierBehavior="_vM8vZCDfEee7T8S-jl9lzg">
+    <ownedAttribute xmi:id="_vM8vYSDfEee7T8S-jl9lzg" name="Property1"/>
+    <ownedAttribute xmi:id="_vM8vYiDfEee7T8S-jl9lzg" name="Property2"/>
+    <ownedAttribute xmi:id="_vM8vYyDfEee7T8S-jl9lzg" name="Property3"/>
+    <ownedBehavior xmi:type="uml:StateMachine" xmi:id="_vM8vZCDfEee7T8S-jl9lzg">
+      <region xmi:id="_vM8vZSDfEee7T8S-jl9lzg"/>
+    </ownedBehavior>
+  </packagedElement>
+</uml:Model>

@@ -1,17 +1,21 @@
 package enumerated;
 
+
 /**
  * Created by pfjia on 2017/4/24 0024.
  */
-enum Signal {
-    GREEN, YELLOW, RED
-}
+
+// Enums in switch statements
+
+// Define an enum type
+
 
 public class TrafficLight {
     Signal color = Signal.RED;
 
     public void change() {
         switch (color) {
+            // Note that you don't have to say Signal.Red in the case statement
             case RED:
                 color = Signal.GREEN;
                 break;

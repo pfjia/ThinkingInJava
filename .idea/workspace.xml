@@ -4,67 +4,29 @@
     <bookmark url="file://$PROJECT_DIR$/src/io/Blips.java" line="24" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71263c24-ccaf-4152-ba6a-97e8213c2eb2" name="Default" comment="idea中的Java编程思想第一次commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blip3.out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blips.out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CADState.out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/X.file" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login.out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/worm.out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/xom_1_2_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/People.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/Alien.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/Blip3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/Blips.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/FIleLocking.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/FreezeAlien.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/GZIPcompress.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/LockingMappedFiles.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/Login.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/MyWorld.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/PreferencesDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/RecoverCADState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/SerialCtl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/StoreCADState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/ThawAlien.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/Worm.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/ZipCompress.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/xml/People.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/xml/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testgz.in" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/annotations/AtUnitExample1.class" afterPath="$PROJECT_DIR$/bin/annotations/AtUnitExample1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/concurrency/CloseResource.class" afterPath="$PROJECT_DIR$/bin/concurrency/CloseResource.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/concurrency/waxomatic2/WaxOff.class" afterPath="$PROJECT_DIR$/bin/concurrency/waxomatic2/WaxOff.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/concurrency/waxomatic2/WaxOn.class" afterPath="$PROJECT_DIR$/bin/concurrency/waxomatic2/WaxOn.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/containers/SimpleHashMap3.class" afterPath="$PROJECT_DIR$/bin/containers/SimpleHashMap3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/containers/SortedSetDemo.class" afterPath="$PROJECT_DIR$/bin/containers/SortedSetDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/exercise10/Ex5.class" afterPath="$PROJECT_DIR$/bin/exercise10/Ex5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/exercise10/Outer$Inner.class" afterPath="$PROJECT_DIR$/bin/exercise10/Outer$Inner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/exercise10/Outer.class" afterPath="$PROJECT_DIR$/bin/exercise10/Outer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/exercise10/StringWarpper.class" afterPath="$PROJECT_DIR$/bin/exercise10/StringWarpper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/exercise12/Ex10.class" afterPath="$PROJECT_DIR$/bin/exercise12/Ex10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/exercise12/Ex11.class" afterPath="$PROJECT_DIR$/bin/exercise12/Ex11.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/exercise14/E09_GetDeclaredFields.class" afterPath="$PROJECT_DIR$/bin/exercise14/E09_GetDeclaredFields.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/exercise14/E10_PrimitiveOrTrue.class" afterPath="$PROJECT_DIR$/bin/exercise14/E10_PrimitiveOrTrue.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/holding/MapOfList.class" afterPath="$PROJECT_DIR$/bin/holding/MapOfList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/io/AvailableCharSets.class" afterPath="$PROJECT_DIR$/bin/io/AvailableCharSets.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/io/BufferToText.class" afterPath="$PROJECT_DIR$/bin/io/BufferToText.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/net/mindview/atunit/ClassNameFinder.class" afterPath="$PROJECT_DIR$/bin/net/mindview/atunit/ClassNameFinder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/strings/Splitting.class" afterPath="$PROJECT_DIR$/bin/strings/Splitting.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/typeinfo/NullRobot.class" afterPath="$PROJECT_DIR$/bin/typeinfo/NullRobot.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/typeinfo/ShowMethods.class" afterPath="$PROJECT_DIR$/bin/typeinfo/ShowMethods.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/typeinfo/toys/ToyTest.class" afterPath="$PROJECT_DIR$/bin/typeinfo/toys/ToyTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+    <list default="true" id="71263c24-ccaf-4152-ba6a-97e8213c2eb2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/xom_1_2_10.xml" afterPath="$PROJECT_DIR$/.idea/libraries/xom_1_2_10.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java 编程思想.iml" afterPath="$PROJECT_DIR$/Java 编程思想.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/annotations/AtUnitExample1.java" afterPath="$PROJECT_DIR$/src/annotations/AtUnitExample1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/holding/MapOfList.java" afterPath="$PROJECT_DIR$/src/holding/MapOfList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/BufferToText.java" afterPath="$PROJECT_DIR$/src/io/BufferToText.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.dat" afterPath="$PROJECT_DIR$/test.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/People.xml" afterPath="$PROJECT_DIR$/People.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/Alien.java" afterPath="$PROJECT_DIR$/src/io/Alien.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/Blip3.java" afterPath="$PROJECT_DIR$/src/io/Blip3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/Blips.java" afterPath="$PROJECT_DIR$/src/io/Blips.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/FIleLocking.java" afterPath="$PROJECT_DIR$/src/io/FIleLocking.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/FreezeAlien.java" afterPath="$PROJECT_DIR$/src/io/FreezeAlien.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/GZIPcompress.java" afterPath="$PROJECT_DIR$/src/io/GZIPcompress.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/LockingMappedFiles.java" afterPath="$PROJECT_DIR$/src/io/LockingMappedFiles.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/Login.java" afterPath="$PROJECT_DIR$/src/io/Login.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/MyWorld.java" afterPath="$PROJECT_DIR$/src/io/MyWorld.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/PreferencesDemo.java" afterPath="$PROJECT_DIR$/src/io/PreferencesDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/RecoverCADState.java" afterPath="$PROJECT_DIR$/src/io/RecoverCADState.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/SerialCtl.java" afterPath="$PROJECT_DIR$/src/io/SerialCtl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/StoreCADState.java" afterPath="$PROJECT_DIR$/src/io/StoreCADState.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/ThawAlien.java" afterPath="$PROJECT_DIR$/src/io/ThawAlien.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/Worm.java" afterPath="$PROJECT_DIR$/src/io/Worm.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/ZipCompress.java" afterPath="$PROJECT_DIR$/src/io/ZipCompress.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/xml/People.java" afterPath="$PROJECT_DIR$/src/xml/People.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/xml/Person.java" afterPath="$PROJECT_DIR$/src/xml/Person.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testgz.in" afterPath="$PROJECT_DIR$/testgz.in" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -107,7 +69,7 @@
       <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
         <entry file="jar://F:/Java/jdk1.8.0_121/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
+            <state relative-caret-position="12540">
               <caret line="615" column="6" lean-forward="false" selection-start-line="615" selection-start-column="6" selection-end-line="615" selection-end-column="6" />
               <folding />
             </state>
@@ -241,21 +203,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java 编程思想" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java 编程思想" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -270,13 +219,26 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java 编程思想" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java 编程思想" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/xom-1.2.10/XOM/xom-samples.jar!/" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://G:/工作/idea_project/Java 编程思想/src/xml/Person.java&#10;seri&#9;FILE&#9;file://G:/工作/idea_project/Java 编程思想/src/io/SerialCtl.java&#10;Ser&#9;FILE&#9;file://G:/工作/idea_project/Java 编程思想/src/io/SerialCtl.java&#10;excha&#9;FILE&#9;file://G:/工作/idea_project/Java 编程思想/src/concurrency/ExchangerDemo.java&#10;pool&#9;FILE&#9;file://G:/工作/idea_project/Java 编程思想/src/concurrency/Pool.java" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -992,7 +954,8 @@
       <workItem from="1493297453590" duration="13000" />
       <workItem from="1493301368883" duration="807000" />
       <workItem from="1493340570022" duration="603000" />
-      <workItem from="1493384404720" duration="31000" />
+      <workItem from="1493384404720" duration="567000" />
+      <workItem from="1493384988335" duration="39000" />
     </task>
     <task id="LOCAL-00001" summary="idea中的Java编程思想第一次commit">
       <created>1493146471325</created>
@@ -1001,11 +964,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493146471325</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1.使用idea自带git插件进行commit&#10;2.好几天没有总结了，今天总结一下几天的工作&#10;3.投了实习僧网站的简历，有一个因为时间不符直接被拒了，现在学习效率还可以，不着急找实习，一周接受2~4天实习&#10;4.Java编程思想终于过了一遍，这周日进行复习，整理笔记&#10;5.现在再看深入理解JVM，打开了新大门，书籍有很多例子，不是概念晦涩难懂的那种抽象书籍，尽量在第10周前看完&#10;6.实验楼还在看，熟悉linux，不是很紧迫，效率不高时切换一下学习内容&#10;7.英语要坚持每天被单词&#10;8.明天继续JVM，还有和老同学联系。&#10;9.IT项目管理下周就要考试，要留出1~2天复习">
+      <created>1493384792934</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1493384792934</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79168000" />
+    <option name="totallyTimeSpent" value="79743000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1018,6 +988,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1027,22 +998,22 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15625" sideWeight="0.4936508" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15625" sideWeight="0.4936508" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11927083" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15625" sideWeight="0.5063492" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1103,7 +1074,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="idea中的Java编程思想第一次commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="idea中的Java编程思想第一次commit" />
+    <MESSAGE value="1.使用idea自带git插件进行commit&#10;2.好几天没有总结了，今天总结一下几天的工作&#10;3.投了实习僧网站的简历，有一个因为时间不符直接被拒了，现在学习效率还可以，不着急找实习，一周接受2~4天实习&#10;4.Java编程思想终于过了一遍，这周日进行复习，整理笔记&#10;5.现在再看深入理解JVM，打开了新大门，书籍有很多例子，不是概念晦涩难懂的那种抽象书籍，尽量在第10周前看完&#10;6.实验楼还在看，熟悉linux，不是很紧迫，效率不高时切换一下学习内容&#10;7.英语要坚持每天被单词&#10;8.明天继续JVM，还有和老同学联系。&#10;9.IT项目管理下周就要考试，要留出1~2天复习" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.使用idea自带git插件进行commit&#10;2.好几天没有总结了，今天总结一下几天的工作&#10;3.投了实习僧网站的简历，有一个因为时间不符直接被拒了，现在学习效率还可以，不着急找实习，一周接受2~4天实习&#10;4.Java编程思想终于过了一遍，这周日进行复习，整理笔记&#10;5.现在再看深入理解JVM，打开了新大门，书籍有很多例子，不是概念晦涩难懂的那种抽象书籍，尽量在第10周前看完&#10;6.实验楼还在看，熟悉linux，不是很紧迫，效率不高时切换一下学习内容&#10;7.英语要坚持每天被单词&#10;8.明天继续JVM，还有和老同学联系。&#10;9.IT项目管理下周就要考试，要留出1~2天复习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1460,7 +1432,7 @@
     </entry>
     <entry file="jar://F:/Java/jdk1.8.0_121/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
+        <state relative-caret-position="12540">
           <caret line="615" column="6" lean-forward="false" selection-start-line="615" selection-start-column="6" selection-end-line="615" selection-end-column="6" />
           <folding />
         </state>

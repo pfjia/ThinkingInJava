@@ -2,8 +2,6 @@ package xml;
 
 import nu.xom.Element;
 
-import java.util.HashMap;
-
 public class Person {
     private String first, last;
 
@@ -21,6 +19,4 @@ public class Person {
         first = person.getFirstChildElement("first").getValue();
         last = person.getFirstChildElement("last").getValue();
     }
-
-    HashMap
 }

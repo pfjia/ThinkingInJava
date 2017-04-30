@@ -5,28 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71263c24-ccaf-4152-ba6a-97e8213c2eb2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/xom_1_2_10.xml" afterPath="$PROJECT_DIR$/.idea/libraries/xom_1_2_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Test.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/annotations/AtUnitExample1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/annotations/Testable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$ListTester$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$ListTester.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/MapPerformance$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/MapPerformance$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/MapPerformance$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/MapPerformance.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/SetPerformance$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/SetPerformance$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/SetPerformance$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/SetPerformance.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/Tester.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/net/mindview/atunit/AtUnit$TestMethods.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/net/mindview/atunit/AtUnit.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/xml/People.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/People.xml" afterPath="$PROJECT_DIR$/People.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/Alien.java" afterPath="$PROJECT_DIR$/src/io/Alien.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/Blip3.java" afterPath="$PROJECT_DIR$/src/io/Blip3.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/Blips.java" afterPath="$PROJECT_DIR$/src/io/Blips.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/FIleLocking.java" afterPath="$PROJECT_DIR$/src/io/FIleLocking.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/FreezeAlien.java" afterPath="$PROJECT_DIR$/src/io/FreezeAlien.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/GZIPcompress.java" afterPath="$PROJECT_DIR$/src/io/GZIPcompress.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/LockingMappedFiles.java" afterPath="$PROJECT_DIR$/src/io/LockingMappedFiles.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/Login.java" afterPath="$PROJECT_DIR$/src/io/Login.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/MyWorld.java" afterPath="$PROJECT_DIR$/src/io/MyWorld.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/PreferencesDemo.java" afterPath="$PROJECT_DIR$/src/io/PreferencesDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/RecoverCADState.java" afterPath="$PROJECT_DIR$/src/io/RecoverCADState.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/SerialCtl.java" afterPath="$PROJECT_DIR$/src/io/SerialCtl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/StoreCADState.java" afterPath="$PROJECT_DIR$/src/io/StoreCADState.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/ThawAlien.java" afterPath="$PROJECT_DIR$/src/io/ThawAlien.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/Worm.java" afterPath="$PROJECT_DIR$/src/io/Worm.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/io/ZipCompress.java" afterPath="$PROJECT_DIR$/src/io/ZipCompress.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/xml/People.java" afterPath="$PROJECT_DIR$/src/xml/People.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/xml/Person.java" afterPath="$PROJECT_DIR$/src/xml/Person.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testgz.in" afterPath="$PROJECT_DIR$/testgz.in" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,14 +63,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/xml/Person.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="242">
+              <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -69,8 +76,8 @@
       <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
         <entry file="jar://F:/Java/jdk1.8.0_121/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12540">
-              <caret line="615" column="6" lean-forward="false" selection-start-line="615" selection-start-column="6" selection-end-line="615" selection-end-column="6" />
+            <state relative-caret-position="956">
+              <caret line="280" column="16" lean-forward="true" selection-start-line="280" selection-start-column="16" selection-end-line="280" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -103,7 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/enumerated/OverrideConstantSpecific.java" />
         <option value="$PROJECT_DIR$/src/enumerated/menu/PostOffice.java" />
         <option value="$PROJECT_DIR$/src/net/mindview/util/Range.java" />
         <option value="$PROJECT_DIR$/src/enumerated/PostOffice.java" />
@@ -154,6 +160,7 @@
         <option value="$PROJECT_DIR$/src/holding/MapOfList.java" />
         <option value="$PROJECT_DIR$/src/xml/People.java" />
         <option value="$PROJECT_DIR$/src/xml/Person.java" />
+        <option value="$PROJECT_DIR$/src/test/Test.java" />
       </list>
     </option>
   </component>
@@ -203,22 +210,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java 编程思想" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java 编程思想" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -233,6 +224,22 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java 编程思想" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java 编程思想" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,27 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.People">
-    <configuration default="false" name="StoreCADState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="io.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="io.StoreCADState" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Java 编程思想" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Test">
     <configuration default="false" name="RecoverCADState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -353,6 +340,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="xml.People" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java 编程思想" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -876,19 +883,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.StoreCADState" />
-      <item index="1" class="java.lang.String" itemvalue="Application.RecoverCADState" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PreferencesDemo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Person" />
-      <item index="4" class="java.lang.String" itemvalue="Application.People" />
+      <item index="0" class="java.lang.String" itemvalue="Application.RecoverCADState" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PreferencesDemo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Person" />
+      <item index="3" class="java.lang.String" itemvalue="Application.People" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.People" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Person" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PreferencesDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RecoverCADState" />
-        <item index="4" class="java.lang.String" itemvalue="Application.StoreCADState" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.People" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Person" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PreferencesDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.RecoverCADState" />
       </list>
     </recent_temporary>
   </component>
@@ -955,7 +962,9 @@
       <workItem from="1493301368883" duration="807000" />
       <workItem from="1493340570022" duration="603000" />
       <workItem from="1493384404720" duration="567000" />
-      <workItem from="1493384988335" duration="39000" />
+      <workItem from="1493384988335" duration="65000" />
+      <workItem from="1493455631507" duration="590000" />
+      <workItem from="1493528355981" duration="2993000" />
     </task>
     <task id="LOCAL-00001" summary="idea中的Java编程思想第一次commit">
       <created>1493146471325</created>
@@ -975,7 +984,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79743000" />
+    <option name="totallyTimeSpent" value="83352000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -988,7 +997,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1005,8 +1013,8 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15625" sideWeight="0.4936508" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15625" sideWeight="0.4936508" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11927083" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1099,13 +1107,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/net/mindview/atunit/ClassNameFinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="31" column="63" lean-forward="false" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/net/mindview/util/ProcessFiles.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1430,21 +1431,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://F:/Java/jdk1.8.0_121/src.zip!/java/util/HashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/xml/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12540">
-          <caret line="615" column="6" lean-forward="false" selection-start-line="615" selection-start-column="6" selection-end-line="615" selection-end-column="6" />
+        <state relative-caret-position="308">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/xml/Person.java">
+    <entry file="jar://F:/Java/jdk1.8.0_121/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="956">
+          <caret line="280" column="16" lean-forward="true" selection-start-line="280" selection-start-column="16" selection-end-line="280" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>

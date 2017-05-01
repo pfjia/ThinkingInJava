@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71263c24-ccaf-4152-ba6a-97e8213c2eb2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/Test.java" afterPath="$PROJECT_DIR$/src/test/Test.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,17 +38,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
-        <entry file="jar://F:/Java/jdk1.8.0_121/src.zip!/java/util/HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5478">
-              <caret line="280" column="16" lean-forward="false" selection-start-line="280" selection-start-column="16" selection-end-line="280" selection-end-column="16" />
+              <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -937,7 +926,7 @@
       <workItem from="1493384988335" duration="65000" />
       <workItem from="1493455631507" duration="590000" />
       <workItem from="1493528355981" duration="2993000" />
-      <workItem from="1493648668940" duration="37000" />
+      <workItem from="1493648668940" duration="140000" />
     </task>
     <task id="LOCAL-00001" summary="idea中的Java编程思想第一次commit">
       <created>1493146471325</created>
@@ -953,11 +942,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493384792934</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1.实验idea能否commit">
+      <created>1493648733704</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1493648733704</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83389000" />
+    <option name="totallyTimeSpent" value="83492000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1056,7 +1052,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="idea中的Java编程思想第一次commit" />
     <MESSAGE value="1.使用idea自带git插件进行commit&#10;2.好几天没有总结了，今天总结一下几天的工作&#10;3.投了实习僧网站的简历，有一个因为时间不符直接被拒了，现在学习效率还可以，不着急找实习，一周接受2~4天实习&#10;4.Java编程思想终于过了一遍，这周日进行复习，整理笔记&#10;5.现在再看深入理解JVM，打开了新大门，书籍有很多例子，不是概念晦涩难懂的那种抽象书籍，尽量在第10周前看完&#10;6.实验楼还在看，熟悉linux，不是很紧迫，效率不高时切换一下学习内容&#10;7.英语要坚持每天被单词&#10;8.明天继续JVM，还有和老同学联系。&#10;9.IT项目管理下周就要考试，要留出1~2天复习" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.使用idea自带git插件进行commit&#10;2.好几天没有总结了，今天总结一下几天的工作&#10;3.投了实习僧网站的简历，有一个因为时间不符直接被拒了，现在学习效率还可以，不着急找实习，一周接受2~4天实习&#10;4.Java编程思想终于过了一遍，这周日进行复习，整理笔记&#10;5.现在再看深入理解JVM，打开了新大门，书籍有很多例子，不是概念晦涩难懂的那种抽象书籍，尽量在第10周前看完&#10;6.实验楼还在看，熟悉linux，不是很紧迫，效率不高时切换一下学习内容&#10;7.英语要坚持每天被单词&#10;8.明天继续JVM，还有和老同学联系。&#10;9.IT项目管理下周就要考试，要留出1~2天复习" />
+    <MESSAGE value="1.实验idea能否commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.实验idea能否commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1408,12 +1405,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://F:/Java/jdk1.8.0_121/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5478">
+        <state relative-caret-position="22">
           <caret line="280" column="16" lean-forward="false" selection-start-line="280" selection-start-column="16" selection-end-line="280" selection-end-column="16" />
           <folding />
         </state>
@@ -1422,7 +1420,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
           <folding />
         </state>
       </provider>

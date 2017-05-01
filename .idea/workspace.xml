@@ -5,37 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71263c24-ccaf-4152-ba6a-97e8213c2eb2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Test.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/annotations/AtUnitExample1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/annotations/Testable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$ListTester$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance$ListTester.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/ListPerformance.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/MapPerformance$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/MapPerformance$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/MapPerformance$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/MapPerformance.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/SetPerformance$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/SetPerformance$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/SetPerformance$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/SetPerformance.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/containers/Tester.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/net/mindview/atunit/AtUnit$TestMethods.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/net/mindview/atunit/AtUnit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/xml/People.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/xml/Person.java" afterPath="$PROJECT_DIR$/src/xml/Person.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,8 +48,8 @@
       <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
         <entry file="jar://F:/Java/jdk1.8.0_121/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="956">
-              <caret line="280" column="16" lean-forward="true" selection-start-line="280" selection-start-column="16" selection-end-line="280" selection-end-column="16" />
+            <state relative-caret-position="5478">
+              <caret line="280" column="16" lean-forward="false" selection-start-line="280" selection-start-column="16" selection-end-line="280" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -210,6 +182,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java 编程思想" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java 编程思想" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -225,20 +211,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java 编程思想" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java 编程思想" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scratches" />
     </panes>
   </component>
@@ -965,6 +937,7 @@
       <workItem from="1493384988335" duration="65000" />
       <workItem from="1493455631507" duration="590000" />
       <workItem from="1493528355981" duration="2993000" />
+      <workItem from="1493648668940" duration="37000" />
     </task>
     <task id="LOCAL-00001" summary="idea中的Java编程思想第一次commit">
       <created>1493146471325</created>
@@ -984,7 +957,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83352000" />
+    <option name="totallyTimeSpent" value="83389000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1006,8 +979,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1020,8 +993,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15625" sideWeight="0.5063492" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15625" sideWeight="0.5063492" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1435,14 +1408,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://F:/Java/jdk1.8.0_121/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="956">
-          <caret line="280" column="16" lean-forward="true" selection-start-line="280" selection-start-column="16" selection-end-line="280" selection-end-column="16" />
+        <state relative-caret-position="5478">
+          <caret line="280" column="16" lean-forward="false" selection-start-line="280" selection-start-column="16" selection-end-line="280" selection-end-column="16" />
           <folding />
         </state>
       </provider>
